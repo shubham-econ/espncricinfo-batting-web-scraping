@@ -49,7 +49,8 @@ The scripts extract batting statistics from ESPN Cricinfo and compile them into 
 
 Set your working directory to the project folder:
 ```r
-setwd("path/to/espncricinfo-batting-web-scraping") ```
+setwd("path/to/espncricinfo-batting-web-scraping")
+```
 ---
 
 ### 2. Run Single-Page Scraper
