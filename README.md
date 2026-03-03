@@ -95,11 +95,13 @@ data/espncricinfo_all_batting.csv
 ---
 ## 🔗 Data Source
 
-Data is collected from the ESPN Cricinfo statistics portal:
+Data for this project was collected from the official statistics portal of ESPN Cricinfo:
 
-[ESPN Cricinfo – Batting Statistics (Test Format)](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;page=1;template=results;type=batting)
+ESPN Cricinfo – Test Match Batting Statistics
+https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;template=results;type=batting
 
-The scraper iterates across multiple pages to compile a consolidated dataset.
+The dataset was programmatically scraped using R.
+The scraper iterates across multiple result pages to extract player-level batting statistics and compiles them into a consolidated dataset.
 
 ---
 
