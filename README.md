@@ -6,7 +6,7 @@ espncricinfo-batting-web-scraping/
 
 │
 ├── cricket_web_scrapping_one_page.R     # R script to scrape batting data from a single ESPN Cricinfo page
-├── espn_scraper_all_pages.R             # R script to scrape and combine batting data from multiple pages
+├── cricket_web_scraping_r.R             # R script to scrape and combine batting data from multiple pages
 ├── README.md                            # Project documentation
 │
 └── data/
