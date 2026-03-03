@@ -34,7 +34,7 @@ The scripts extract batting statistics from ESPN Cricinfo and compile them into 
 
 ---
 
-## 🛠 Tools & Libraries Used
+##  Tools & Libraries Used
 
 - **R**
 - `rvest` – HTML parsing  
