@@ -9,7 +9,7 @@ This repository contains R scripts to scrape batting statistics data from ESPN C
 espncricinfo-batting-web-scraping /
 
 │  
-├── espn_scraper_page1.R              # Scrapes batting data from a single page  
+├── cricket_web_scrapping_one_page.R              # Scrapes batting data from a single page of ESPN Cricinfo
 ├── espn_scraper_all_pages.R          # Scrapes batting data from multiple pages  
 ├── README.md                         # Project documentation  
 │  
@@ -51,7 +51,7 @@ The scripts extract batting statistics from ESPN Cricinfo and compile them into 
 setwd("your/project/path")
 
 3. Run single-page scraper: 
-source("espn_scraper_page1.R")
+source("cricket_web_scrapping_one_page.R")
 
 Output will be saved as:
 data/espncricinfo_page1_batting.csv
