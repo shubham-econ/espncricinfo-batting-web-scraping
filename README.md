@@ -93,9 +93,11 @@ data/espncricinfo_all_batting.csv
 * Highest Score
 
 ---
+
+
 ## Data Source
 
-Data sourced from the ESPN Cricinfo Statistics engine (Test Batting records)
+Data sourced from the ESPN Cricinfo Statistics engine (Test Batting records).
 ---
 
 ## Disclaimer
