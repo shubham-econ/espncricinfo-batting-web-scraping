@@ -93,16 +93,9 @@ data/espncricinfo_all_batting.csv
 * Highest Score
 
 ---
-## 🔗 Data Source
+## Data Source
 
-Data for this project was collected from the official statistics portal of ESPN Cricinfo:
-
-Data sourced from ESPN Cricinfo Statistics Portal:  
-https://stats.espncricinfo.com/
-
-The dataset was programmatically scraped using R.
-The scraper iterates across multiple result pages to extract player-level batting statistics and compiles them into a consolidated dataset.
-
+Data sourced from the ESPN Cricinfo Statistics engine (Test Batting records)
 ---
 
 ## Disclaimer
