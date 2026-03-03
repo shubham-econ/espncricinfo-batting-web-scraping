@@ -48,9 +48,9 @@ The scripts extract batting statistics from ESPN Cricinfo and compile them into 
 ### 1. Open in RStudio
 
 Set your working directory to the project folder:
-
+```r
 setwd("path/to/espncricinfo-batting-web-scraping")
-
+```
 ---
 
 ### 2. Run Single-Page Scraper
