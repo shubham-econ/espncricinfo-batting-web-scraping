@@ -94,9 +94,6 @@ data/espncricinfo_all_batting.csv
 
 ---
 
-
-## Data Source
-
 Data sourced from the ESPN Cricinfo Statistics engine (Test Batting records).
 ---
 
